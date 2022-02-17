@@ -1,0 +1,11 @@
+pip3 install --upgrade streamlit (pip3 means pip with python 3)
+
+streamlit run uber_pickups.py (command to run the webapp in anaconda prompt)
+
+[streamlit run "c:/Users/LAXIT RANA/For_live/Fake News/web app/Fake News Detector.py" ]
+## we have to provide whole path to open the web app
+
+
+just copy paste the IP address along withj port number and app will be live on local host
+
+
