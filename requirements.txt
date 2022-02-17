@@ -1,4 +1,4 @@
--umpy
+numpy
 absl-py
 anaconda-navigator
 anaconda-project
