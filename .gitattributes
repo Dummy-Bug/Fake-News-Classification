@@ -1,4 +1,8 @@
 .pkl filter=lfs diff=lfs merge=lfs -text
+data.pkl filter=lfs diff=lfs merge=lfs -text
+model.pkl filter=lfs diff=lfs merge=lfs -text
+count_vec.pkl filter=lfs diff=lfs merge=lfs -text
+count_vect.pkl filter=lfs diff=lfs merge=lfs -text
 =<count_vect.pkl> filter=lfs diff=lfs merge=lfs -text
 =<model.pkl> filter=lfs diff=lfs merge=lfs -text
 =<standard_scaler.pkl> filter=lfs diff=lfs merge=lfs -text
