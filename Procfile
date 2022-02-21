@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run fake-news-detec0r.py
+web: sh setup.sh && streamlit run fake-news-detect0r.py
